@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Description>test</Description>
+    <Authors>Nero</Authors>
+    <Product>Nero</Product>
+  </PropertyGroup>
+
+</Project>
